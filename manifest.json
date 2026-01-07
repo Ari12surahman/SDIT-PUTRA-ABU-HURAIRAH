@@ -1,6 +1,6 @@
 {
-  "name": "Beranda Info SDIT Putra Abu Hurairah",
-  "short_name": "Beranda Info",
+  "name": "Beranda Informasi SDIT Putra Abu Hurairah",
+  "short_name": "Beranda Informasi",
   "start_url": "https://sdit-putra-abu-hurairah.vercel.app/",
   "display": "standalone",
   "background_color": "#ffffff",
